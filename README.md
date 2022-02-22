@@ -1,14 +1,14 @@
 # `osb-broker-lib`
 
-[![Build Status](https://travis-ci.org/pmorie/osb-broker-lib.svg?branch=master)](https://travis-ci.org/pmorie/osb-broker-lib "Travis")
+[![Build Status](https://travis-ci.org/rbogle/osb-broker-lib.svg?branch=master)](https://travis-ci.org/rbogle/osb-broker-lib "Travis")
 [![Go Report Card](https://goreportcard.com/badge/github.com/rbogle/osb-broker-lib)](https://goreportcard.com/report/github.com/rbogle/osb-broker-lib)
 [![Godoc documentation](https://img.shields.io/badge/godoc-documentation-blue.svg)](https://godoc.org/github.com/rbogle/osb-broker-lib/pkg)
 
 A go library for developing an [Open Service
 Broker](https://github.com/openservicebrokerapi/servicebroker), using the
-[`pmorie/go-open-service-broker-client`](https://github.com/pmorie/go-open-service-broker-client)
+[`rbogle/go-open-service-broker-client`](https://github.com/rbogle/go-open-service-broker-client)
 OSB client library types. This project was originally created as part of the
-[OSB Starter Pack](https://github.com/pmorie/osb-starter-pack) project.
+[OSB Starter Pack](https://github.com/rbogle/osb-starter-pack) project.
 
 ## Who should use this library?
 
@@ -16,7 +16,7 @@ This library is most useful if you want to build your own broker from scratch
 and use it in a project just the way you want. If you're looking for an
 opinionated quickstart to easily start iterating on a new broker you should
 instead check out the [OSB Starter
-Pack](https://github.com/pmorie/osb-starter-pack).
+Pack](https://github.com/rbogle/osb-starter-pack).
 
 ## Example: serving broker catalog
 
@@ -68,4 +68,4 @@ services:
 ## Current Status
 
 Currently this library is used on the [OSB Starter
-Pack](https://github.com/pmorie/osb-starter-pack) project.
+Pack](https://github.com/rbogle/osb-starter-pack) project.
