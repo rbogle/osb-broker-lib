@@ -1,4 +1,4 @@
-module github.com/pmorie/osb-broker-lib
+module github.com/rbogle/osb-broker-lib
 
 go 1.17
 

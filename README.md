@@ -1,8 +1,8 @@
 # `osb-broker-lib`
 
 [![Build Status](https://travis-ci.org/pmorie/osb-broker-lib.svg?branch=master)](https://travis-ci.org/pmorie/osb-broker-lib "Travis")
-[![Go Report Card](https://goreportcard.com/badge/github.com/pmorie/osb-broker-lib)](https://goreportcard.com/report/github.com/pmorie/osb-broker-lib)
-[![Godoc documentation](https://img.shields.io/badge/godoc-documentation-blue.svg)](https://godoc.org/github.com/pmorie/osb-broker-lib/pkg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/rbogle/osb-broker-lib)](https://goreportcard.com/report/github.com/rbogle/osb-broker-lib)
+[![Godoc documentation](https://img.shields.io/badge/godoc-documentation-blue.svg)](https://godoc.org/github.com/rbogle/osb-broker-lib/pkg)
 
 A go library for developing an [Open Service
 Broker](https://github.com/openservicebrokerapi/servicebroker), using the
@@ -23,7 +23,7 @@ Pack](https://github.com/pmorie/osb-starter-pack).
 ```go
 import (
     osb "sigs.k8s.io/go-open-service-broker-client/v2"
-    broker "github.com/pmorie/osb-broker-lib/pkg/"
+    broker "github.com/rbogle/osb-broker-lib/pkg/"
 
     "gopkg.in/yaml.v2"
 )

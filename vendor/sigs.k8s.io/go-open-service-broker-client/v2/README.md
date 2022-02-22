@@ -57,7 +57,7 @@ This repository is used in:
 
 * The [Kubernetes `service-catalog`](https://github.com/kubernetes-sigs/service-catalog)
 incubator repo
-* The [`osb-broker-lib`](https://github.com/pmorie/osb-broker-lib) library for
+* The [`osb-broker-lib`](https://github.com/rbogle/osb-broker-lib) library for
   creating service brokers
 * The [OSB Starter Pack](https://github.com/pmorie/osb-starter-pack) broker quickstart
 
